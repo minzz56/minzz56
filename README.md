@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minzz56&label=Profile%20views&color=0e75b6&style=flat" alt="minzz56" /> </p>
 
-- 🌱 I’m currently learning **coding**
-
-- 📫 How to reach me **minsajerome@gmail.com**
+- 🌱 I’m currently learning **coding*
 
 - ⚡ Fun fact **I'M ALWAYS FUNNY😁**
 
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minzz56&show_icons=true&locale=en" alt="minzz56" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minzz56&" alt="minzz56" /></p>
-
