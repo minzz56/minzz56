@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MINSA.J.P</h1>
-<h3 align="center">A GIRL👩‍💻TRYING TO FIGURE-OUT SOME STUFF!!🤙</h3>
+<h3 align="center">A GIRL👩‍💻TRYING TO FIGURE-OUT  STUFF!!🤙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minzz56&label=Profile%20views&color=0e75b6&style=flat" alt="minzz56" /> </p>
 
