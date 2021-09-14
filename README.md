@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I'M ALWAYS FUNNY😁**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minzz56&show_icons=true&locale=en&layout=compact" alt="minzz56" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minzz56&show_icons=true&locale=en" alt="minzz56" /></p>
 
