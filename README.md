@@ -1,5 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://minzz56.github.io)
-(p align="left")(img src="https://komarev.com/ghpvc/?username=k..." alt="minsajp" /)(/p)
+
 <h1 align="center">Hi 👋, I'm MINSA.J.P</h1>
 <h3 align="center">A GIRL👩‍💻TRYING TO FIGURE-OUT SOME STUFF!!🤙</h3>
 (img align="right" alt="Coding" width="400" src="https://image.shutterstock.com/image-vector/modern-young-woman-sitting-on-260nw-1920630998.jpg")
