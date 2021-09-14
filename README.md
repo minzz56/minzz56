@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **coding**
 
-- 📫 How to reach me **LinkedIN@Minsa JP**
-
 - ⚡ Fun fact **I'M ALWAYS FUNNY😁**
 
 <h3 align="left">Connect with me:</h3>
