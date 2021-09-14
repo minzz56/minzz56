@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://minzz56.github.io)
 (p align="left")(img src="https://komarev.com/ghpvc/?username=k..." alt="minsajp" /)(/p)
 <h1 align="center">Hi 👋, I'm MINSA.J.P</h1>
